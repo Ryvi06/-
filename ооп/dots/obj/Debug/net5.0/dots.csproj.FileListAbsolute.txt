@@ -1,0 +1,16 @@
+C:\Users\zikot\Desktop\Study\Veta\dots\dots\bin\Debug\net5.0\dots.exe
+C:\Users\zikot\Desktop\Study\Veta\dots\dots\bin\Debug\net5.0\dots.deps.json
+C:\Users\zikot\Desktop\Study\Veta\dots\dots\bin\Debug\net5.0\dots.runtimeconfig.json
+C:\Users\zikot\Desktop\Study\Veta\dots\dots\bin\Debug\net5.0\dots.runtimeconfig.dev.json
+C:\Users\zikot\Desktop\Study\Veta\dots\dots\bin\Debug\net5.0\dots.dll
+C:\Users\zikot\Desktop\Study\Veta\dots\dots\bin\Debug\net5.0\ref\dots.dll
+C:\Users\zikot\Desktop\Study\Veta\dots\dots\bin\Debug\net5.0\dots.pdb
+C:\Users\zikot\Desktop\Study\Veta\dots\dots\obj\Debug\net5.0\dots.csproj.AssemblyReference.cache
+C:\Users\zikot\Desktop\Study\Veta\dots\dots\obj\Debug\net5.0\dots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zikot\Desktop\Study\Veta\dots\dots\obj\Debug\net5.0\dots.AssemblyInfoInputs.cache
+C:\Users\zikot\Desktop\Study\Veta\dots\dots\obj\Debug\net5.0\dots.AssemblyInfo.cs
+C:\Users\zikot\Desktop\Study\Veta\dots\dots\obj\Debug\net5.0\dots.csproj.CoreCompileInputs.cache
+C:\Users\zikot\Desktop\Study\Veta\dots\dots\obj\Debug\net5.0\dots.dll
+C:\Users\zikot\Desktop\Study\Veta\dots\dots\obj\Debug\net5.0\ref\dots.dll
+C:\Users\zikot\Desktop\Study\Veta\dots\dots\obj\Debug\net5.0\dots.pdb
+C:\Users\zikot\Desktop\Study\Veta\dots\dots\obj\Debug\net5.0\dots.genruntimeconfig.cache
